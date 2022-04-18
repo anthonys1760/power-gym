@@ -1,5 +1,5 @@
 # Power Gym Website
-![title-pic](loruki.png)
+![title-pic](gym-pic.png)
 
 Welcome to The Power Room. We are a fitness and training center that focuses on pushing you to your absolute limit. Download our complete brochure to get started today!
 
